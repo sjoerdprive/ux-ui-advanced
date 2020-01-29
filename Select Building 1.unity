@@ -767,6 +767,16 @@ PrefabInstance:
       propertyPath: m_Color.a
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6521295494759106987, guid: a8c124c83d65daf428e18a07878b4d81,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6521295494759106991, guid: a8c124c83d65daf428e18a07878b4d81,
+        type: 3}
+      propertyPath: m_Colors.m_NormalColor.a
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6521295495271930690, guid: a8c124c83d65daf428e18a07878b4d81,
         type: 3}
       propertyPath: m_Name
@@ -1215,7 +1225,7 @@ PrefabInstance:
     - target: {fileID: 5011065874290083816, guid: d11aa6dca77761b4bbae82d95fb27ea7,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -60
       objectReference: {fileID: 0}
     - target: {fileID: 5011065874290083816, guid: d11aa6dca77761b4bbae82d95fb27ea7,
         type: 3}
@@ -1379,8 +1389,9 @@ MonoBehaviour:
 
     3 ruimtes vrij'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b5231645f2a9f3c488c29262fda4437f, type: 2}
+  m_sharedMaterial: {fileID: -3097354308140162507, guid: b5231645f2a9f3c488c29262fda4437f,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2512,8 +2523,9 @@ MonoBehaviour:
 
     0 ruimtes vrij'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b5231645f2a9f3c488c29262fda4437f, type: 2}
+  m_sharedMaterial: {fileID: -3097354308140162507, guid: b5231645f2a9f3c488c29262fda4437f,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2836,10 +2848,10 @@ RectTransform:
   m_Father: {fileID: 1553072070}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.5}
-  m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -4}
-  m_SizeDelta: {x: 0, y: 332}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1445198820
 MonoBehaviour:
@@ -2966,8 +2978,9 @@ MonoBehaviour:
 
     0 ruimtes vrij'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b5231645f2a9f3c488c29262fda4437f, type: 2}
+  m_sharedMaterial: {fileID: -3097354308140162507, guid: b5231645f2a9f3c488c29262fda4437f,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3196,8 +3209,9 @@ MonoBehaviour:
 
     6 ruimtes vrij'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b5231645f2a9f3c488c29262fda4437f, type: 2}
+  m_sharedMaterial: {fileID: -3097354308140162507, guid: b5231645f2a9f3c488c29262fda4437f,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3428,8 +3442,9 @@ MonoBehaviour:
 
     3 ruimtes vrij'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b5231645f2a9f3c488c29262fda4437f, type: 2}
+  m_sharedMaterial: {fileID: -3097354308140162507, guid: b5231645f2a9f3c488c29262fda4437f,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3585,8 +3600,9 @@ MonoBehaviour:
 
     0 ruimtes vrij'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b5231645f2a9f3c488c29262fda4437f, type: 2}
+  m_sharedMaterial: {fileID: -3097354308140162507, guid: b5231645f2a9f3c488c29262fda4437f,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3949,11 +3965,11 @@ RectTransform:
   m_Father: {fileID: 1553072070}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 50, y: 187}
-  m_SizeDelta: {x: 1023, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 50, y: -50}
+  m_SizeDelta: {x: 1023.03, y: 50}
+  m_Pivot: {x: 0, y: 1}
 --- !u!114 &1732988141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3974,8 +3990,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: Select your preferred location
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: b5231645f2a9f3c488c29262fda4437f, type: 2}
+  m_sharedMaterial: {fileID: -3097354308140162507, guid: b5231645f2a9f3c488c29262fda4437f,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4399,7 +4416,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: -32}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 20}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &1987373647
@@ -4444,8 +4461,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1377677544}
   m_HandleRect: {fileID: 1377677543}
   m_Direction: 0
-  m_Value: -0.0000000785119
-  m_Size: 0.40470174
+  m_Value: -0.000000094716256
+  m_Size: 0.5065472
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
